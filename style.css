@@ -72,8 +72,6 @@ body {
   height: 100%;
   padding: 20px;
   background-color: black;
-  display: flex;
-  align-items: center;
 }
 #forth_section h1 {
   font-size: 40vw;
